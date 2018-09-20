@@ -208,8 +208,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'ixcloudapi.tex', u'ixcloud-api Documentation',
-   u'kde', 'manual'),
+#  ('index', 'ixcloudapi.tex', u'ixcloud-api Documentation',
+#   u'kde', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -252,9 +252,9 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ixcloudapi', u'ixcloud-api Documentation',
-   u'kde', 'ixcloudapi', 'One line description of project.',
-   'Miscellaneous'),
+#  ('index', 'ixcloudapi', u'ixcloud-api Documentation',
+#   u'kde', 'ixcloudapi', 'One line description of project.',
+#   'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.
